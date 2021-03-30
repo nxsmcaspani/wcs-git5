@@ -1,3 +1,4 @@
+LOCAL
 # wcs-git5
 ## this is a sample
 
